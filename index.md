@@ -10,8 +10,6 @@
   
 <p>The language learning websites I use the most are <a href="https://context.reverso.net/translation/">Reverso Context</a> and <a href="https://www.wordreference.com/">WordReference</a></p>
 
- </div>
- 
  <hr>
  
  
