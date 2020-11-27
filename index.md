@@ -4,8 +4,8 @@
 <p>Including:</p>
   <ol>
   <li>The Russian alphabet.</li>
-  <li>The diffrence between imperfective and perfective verbs.</li>
-  <li>Fun interactive games to introduce vocabulary.</li>
+  <li>The difference between imperfective and perfective verbs.</li>
+  <li>Fun interactive activities to introduce vocabulary.</li>
 </ol>
   
 
