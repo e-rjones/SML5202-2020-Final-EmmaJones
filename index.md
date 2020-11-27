@@ -1,14 +1,14 @@
 <h1>Welcome</h1>
 <h2><b>Introduction</b></h2>
-<p>Hello! My name's Emma and this is my experimental website for course module <strong>SML5202</strong>.</p>  
-<p>Here are three facts about me:</p>
+<p>This website offers a light introduction to the <strong>Russian language</strong>.</p>  
+<p>Including:</p>
   <ol>
-  <li>I'm from Gloucestershire.</li>
-  <li>I study Spanish and Russian.</li>
-  <li>I enjoy art, reading and sport.</li>
+  <li>The Russian alphabet.</li>
+  <li>The diffrence between imperfective and perfective verbs.</li>
+  <li>Fun interactive games to introduce vocabulary.</li>
 </ol>
   
-<p>The language learning websites I use the most are <a href="https://context.reverso.net/translation/">Reverso Context</a> and <a href="https://www.wordreference.com/">WordReference</a></p>
+
 
  <hr>
  
