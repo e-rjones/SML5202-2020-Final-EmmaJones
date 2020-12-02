@@ -1,5 +1,7 @@
 <h2> Grammar </h2> 
 
+<p><strong>Add information on the three genders, tenses, difference between imperfective and perfective cases and a brief overview of the Russian case system</strong></p>
+
 <div class="container"> 
 <h3>Tense Formation of Imperfective Verbs</h3>
 <p>The verbs in the present and future tense are in the first person singular form.</p>  
