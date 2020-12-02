@@ -1,2 +1,39 @@
-<h1>Memory Game - Furniture</h1>
-<iframe src="https://h5p.org/h5p/embed/1058785" width="500" height="500" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<h2> Grammar </h2> 
+
+<div class="container"> 
+<h3>Tense Formation of Imperfective Verbs</h3>
+<p>The verbs in the present and future tense are in the first person singular form.</p>  
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Infinitive</th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>говорить</td>
+        <td>говорил/а/и</td>
+        <td>говорю</td>
+        <td>я буду говорить</td>
+      </tr>
+      <tr>
+        <td>работать</td>
+        <td>работал/а/и</td>
+        <td>работаю</td>
+        <td>я буду работать</td>
+      </tr>
+      <tr>
+        <td>хотеть</td>
+        <td>хотел/а/и</td>
+        <td>хочу</td>
+        <td>я буду хотеть</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
