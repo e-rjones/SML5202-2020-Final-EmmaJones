@@ -1,5 +1,5 @@
-<h1>Welcome to Introduction to Russian</h1>
-<h2>This website offers a light introduction to the <strong>Russian language</strong>.</h2>  
+<h1>Welcome to <strong>Introduction to Russian</strong></h1>
+<h2>This website offers a light introduction to the Russian language.</h2>  
 <p>Including:</p>
   <ol>
   <li>The Russian alphabet.</li>
