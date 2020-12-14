@@ -1,7 +1,7 @@
 <h2> The Russian Alphabet </h2> 
 
 <p> The Russian alphabet is made up of letters from the Cyrillic script. </p>
-<p>The modern Russian alphabet consists of 33 letters. <b>2</b> of which are not voiced. </p>
+<p>The modern Russian alphabet consists of 33 letters. <b>2</b> of which are not voiced: the hard sign and the soft sign. </p>
 
 <p>Go through the flashcards below annd listen to the pronunciation of each letter. Note the letter in its cursive (handwritten) form. </p>
 <p>(For sound: click on the <b>Options</b> button below and select <b>On</b> under <b>Audio</b>)</p>
