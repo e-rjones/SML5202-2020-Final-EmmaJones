@@ -3,7 +3,7 @@
 <p> The Russian alphabet uses letters from the Cyrillic script to write the Russian language. </p>
 <p>The modern Russian alphabet consists of 33 letters.</p>
 
-<p>Go through the flashcards below annd listen to the pronunciation of each letter. Note the letter in its cursive (hadnwritten) form. </p>
+<p>Go through the flashcards below annd listen to the pronunciation of each letter. Note the letter in its cursive (handwritten) form. </p>
 <p>(For sound: click on the <b>Options</b> button below and select <b>On</b> under <b>Audio</b>)</p>
 
 <hr>
