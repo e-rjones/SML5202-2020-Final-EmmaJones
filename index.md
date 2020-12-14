@@ -4,29 +4,9 @@
 <p>Including:</p>
   <ol>
   <li>The Russian alphabet.</li>
-  <li>The difference between imperfective and perfective verbs.</li>
+  <li>Basic grammar.</li>
   <li>Fun interactive activities to introduce vocabulary.</li>
 </ol>
-  
-
-
- <hr>
- 
- 
- <div class="container">
-<h2>Винни-Пух</h2>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/bEwE4wyz00o">
-</iframe>
-
-
-<div style="width:400px;overflow:auto">
-<pre style="background-color:#dce3e8;">
-Russian Winnie-the-Pooh (Винни-Пух) is 
-quite different to his English counterpart.
-</pre>
-</div>
- </div>
 
 
 <hr>
