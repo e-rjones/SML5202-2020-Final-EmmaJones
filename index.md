@@ -29,7 +29,7 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="images/rusflag.jpg" alt="The Russian flag" style="height:100%">
+        <img src="images/rusflag1.jpg" alt="The Russian flag" style="height:100%">
         <div class="caption">
           <p>The Russian flag</p>
         </div>
