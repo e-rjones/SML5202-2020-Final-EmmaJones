@@ -35,7 +35,6 @@
           <p>The Russian flag.</p>
            <p>&nbsp;</p>
            <p>&nbsp;</p>
-           <p>&nbsp;</p>
         </div>
     </div>
   </div>
