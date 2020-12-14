@@ -13,7 +13,7 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-    <img src="images/moscow1" alt="The Red Square in Moscow" style="height:100%">
+    <img src="images/moscow1.jpg" alt="The Red Square in Moscow" style="height:100%">
         <div class="caption">
           <p>Moscow</p>
         </div>
