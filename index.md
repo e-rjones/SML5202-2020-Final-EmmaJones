@@ -9,12 +9,15 @@
   <li>Fun interactive activities to introduce vocabulary.</li>
 </ol>
   </div>
+  <&nbsp;>
+<&nbsp;>
   <div class="column" style="background-color: #b7cad9;">
     <h2>Learn a new word!</h2>
     <p>Some text..</p>
   </div>
 </div>
  
+
 
 
 
