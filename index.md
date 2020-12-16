@@ -3,7 +3,7 @@
     <h2>Intro to Russian</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color: blue;">
+  <div class="column" style="background-color: #b7cad9;">
     <h2>Learn a new word!</h2>
     <p>Some text..</p>
   </div>
