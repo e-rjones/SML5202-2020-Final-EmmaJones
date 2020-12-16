@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="column" style="background-color: white;">
+  <div class="column left" style="background-color:#white;">
     <h1>Welcome to <b>Introduction to Russian</b></h1>
     <h2>This website offers a light introduction to the Russian language.</h2> 
     <p>Including:</p>
@@ -9,8 +9,7 @@
   <li>Fun interactive activities to introduce vocabulary.</li>
 </ol>
   </div>
-
-  <div class="column" style="background-color: #b7cad9;">
+  <div class="column right" style="background-color:#b7cad9;">
     <h2>Learn a new word!</h2>
     <p>Some text..</p>
   </div>
