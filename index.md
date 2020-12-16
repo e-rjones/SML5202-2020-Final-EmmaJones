@@ -1,21 +1,21 @@
 <div class="row">
   <div class="column" style="background-color: white;">
-    <h2>Intro to Russian</h2>
-    <p>Some text..</p>
+    <h1>Welcome to <b>Introduction to Russian</b></h1>
+    <h2>This website offers a light introduction to the Russian language.</h2> 
+    <p>Including:</p>
+  <ol>
+  <li>The Russian alphabet.</li>
+  <li>Basic grammar.</li>
+  <li>Fun interactive activities to introduce vocabulary.</li>
+</ol>
   </div>
   <div class="column" style="background-color: #b7cad9;">
     <h2>Learn a new word!</h2>
     <p>Some text..</p>
   </div>
 </div>
-<h1>Welcome to <strong>Introduction to Russian</strong></h1>
-<h2>This website offers a light introduction to the Russian language.</h2>  
-<p>Including:</p>
-  <ol>
-  <li>The Russian alphabet.</li>
-  <li>Basic grammar.</li>
-  <li>Fun interactive activities to introduce vocabulary.</li>
-</ol>
+ 
+
 
 
 <hr>
