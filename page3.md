@@ -76,7 +76,9 @@
             </tbody>
           </table>
 	</div>
-	
+	<p>&nbsp;</p>
+	<h2 align="center"> 2. Now try answering these questions about Russian gender!</h2>
+	<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p>&nbsp;</p>
 
 <div class="container"> 
