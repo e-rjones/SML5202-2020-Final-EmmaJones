@@ -78,7 +78,8 @@
 	</div>
 	
 <p>&nbsp;</p>
-	<h2 align="center"> 2. Now try answering these questions about Russian gender!</h2>
+<h2> 2. Now try answering these questions about Russian gender!</h2>
+	
 	
 <p>&nbsp;</p>
 
