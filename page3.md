@@ -1,8 +1,8 @@
 <h2> Grammar </h2> 
 
-<p align="left"><b>Masculine gender:</b><br />
-	</p><div align="left">
-          <table cellSpacing="0" cellPadding="4" align="left" border="0">
+<p align="center"><b>Masculine gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
                 <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
@@ -21,9 +21,9 @@
 	</div>
 
 <p>&nbsp;</p>
-<p align="left"><b>Feminine gender:</b><br />
-	</p><div align="left">
-          <table cellSpacing="0" cellPadding="4" align="left" border="0">
+<p align="center"><b>Feminine gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
                 <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
@@ -47,9 +47,9 @@
 	</div>
 
 <p>&nbsp;</p>
-<p align="left"><b>Neuter gender:</b><br />
-	</p><div align="left">
-          <table cellSpacing="0" cellPadding="4" align="left" border="0">
+<p align="center"><b>Neuter gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
                 <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
