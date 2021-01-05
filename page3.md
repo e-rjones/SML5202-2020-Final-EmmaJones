@@ -20,7 +20,7 @@
           </table>
 	</div>
 
-<br />
+<p>&nbsp;</p>
 <p align="left"><b>Feminine gender:</b><br />
 	</p><div align="left">
           <table cellSpacing="0" cellPadding="4" align="left" border="0">
@@ -46,7 +46,7 @@
           </table>
 	</div>
 
-<br />
+<p>&nbsp;</p>
 <p align="left"><b>Neuter gender:</b><br />
 	</p><div align="left">
           <table cellSpacing="0" cellPadding="4" align="left" border="0">
