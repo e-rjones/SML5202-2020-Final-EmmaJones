@@ -13,7 +13,7 @@
     <h2>Learn a new word!</h2>
 
 <button onclick="loadWord()">Click to see another word</button>
-
+<p>&nbsp;</p>
 <p id="word"></p>
 
 <script>
