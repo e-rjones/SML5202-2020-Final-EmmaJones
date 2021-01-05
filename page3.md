@@ -6,15 +6,15 @@
             <tbody>
               <tr align="middle">
                 <td width="200" bgcolor="#E8E8E8"><b>Word</b></td>
-                <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
+                <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
               </tr>
               <tr align="middle">
-                <td><font face="Verdana" size="2">до<u>м</u></font></td>
-                <td><font face="Verdana" size="2">in a consonant</font></td>
+                <td>до<u>м</u></td>
+                <td>in a consonant</td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">ча<u>й</u></font></td>
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">in <b>-й</b></font></td>
+                <td bgcolor="#E8E8E8">ча<u>й</u></td>
+                <td bgcolor="#E8E8E8">in <b>-й</b></td>
               </tr>
             </tbody>
           </table>
@@ -26,21 +26,21 @@
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
-                <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
-                <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
+                <td width="200" bgcolor="#E8E8E8"><b>Word</b></td>
+                <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
               </tr>
               <tr align="middle">
-                <td><font face="Verdana" size="2">картин<u>а</u></font></td>
-                <td><font face="Verdana" size="2">in <b>-a</b></font></td>
+                <td>картин<u>а</u></td>
+                <td>in <b>-a</b></td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">семь<u>я</u></font></td>
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
-                  <b>-я</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+                <td bgcolor="#E8E8E8">семь<u>я</u></td>
+                <td bgcolor="#E8E8E8">&nbsp;&nbsp;&nbsp;&nbsp;in
+                  <b>-я</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
               <tr align="middle">
-                <td><font face="Verdana" size="2">истор<u>ия</u></font></td>
-                <td><font face="Verdana" size="2">in <b>-ия</b></font></td>
+                <td>истор<u>ия</u></td>
+                <td>in <b>-ия</b></td>
               </tr>
             </tbody>
           </table>
@@ -52,26 +52,26 @@
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
-                <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
-                <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
+                <td width="200" bgcolor="#E8E8E8"><b>Word</b></td>
+                <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
               </tr>
               <tr align="middle">
-                <td><font face="Verdana" size="2">письм<u>o</u></font></td>
-                <td><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in <b>-o</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+                <td>письм<u>o</u></td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;in <b>-o</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">плать<u>e</u></font></td>
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
-                  <b>-e</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+                <td bgcolor="#E8E8E8">плать<u>e</u></td>
+                <td bgcolor="#E8E8E8">&nbsp;&nbsp;&nbsp;&nbsp;in
+                  <b>-e</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
 	      <tr align="middle">
-                <td><font face="Verdana" size="2">вниман<u>ие</u></font></td>
-                <td><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in <b>-ие</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+                <td>вниман<u>ие</u></td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;in <b>-ие</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">вре<u>мя</u></font></td>
-                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
-                  <b>-мя</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+                <td bgcolor="#E8E8E8">вре<u>мя</u></td>
+                <td bgcolor="#E8E8E8">&nbsp;&nbsp;&nbsp;&nbsp;in
+                  <b>-мя</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
             </tbody>
           </table>
