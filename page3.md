@@ -5,7 +5,7 @@
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
-                <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
+                <td width="200" bgcolor="#E8E8E8"><b>Word</b></font></td>
                 <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
               </tr>
               <tr align="middle">
