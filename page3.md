@@ -1,5 +1,6 @@
 <h1 align="center"> Grammar </h1> 
-
+<h2> Part 1: Gender</h2>
+<h3> 1. Read through the information on the gender of nouns.</h3>
 <p align="center"><b>Masculine gender:</b><br />
 	</p><div align="center">
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
