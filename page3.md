@@ -1,7 +1,7 @@
 <h1 align="center"> Grammar </h1> 
 <h2> Part 1: Gender</h2>
 <h3> 1. Read through the information on the gender of nouns.</h3>
-<p> There are three genders in Russian: <strong>masculine, feminine and neuter</strong>.<br> You can usually determine the gender of a noun by its ending.<br> Here are some basic rules:<p>
+<p> There are three genders in Russian: <strong>masculine, feminine and neuter</strong>.<br>You can usually determine the gender of a noun by its ending.<br>Here are some basic rules:<p>
 <p align="center"><b>Masculine gender:</b><br />
 	</p><div align="center">
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
