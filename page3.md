@@ -1,7 +1,7 @@
 <h2> Grammar </h2> 
 
-<p align="center"><b>Masculine gender:</b><br />
-	</p><div align="center">
+<p align="left"><b>Masculine gender:</b><br />
+	</p><div align="left">
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
@@ -21,8 +21,8 @@
 	</div>
 
 <br />
-<p align="center"><b>Feminine gender:</b><br />
-	</p><div align="center">
+<p align="left"><b>Feminine gender:</b><br />
+	</p><div align="left">
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
@@ -38,7 +38,6 @@
                 <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
                   <b>-я</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
               </tr>
-              
               <tr align="middle">
                 <td><font face="Verdana" size="2">истор<u>ия</u></font></td>
                 <td><font face="Verdana" size="2">in <b>-ия</b></font></td>
@@ -48,8 +47,8 @@
 	</div>
 
 <br />
-<p align="center"><b>Neuter gender:</b><br />
-	</p><div align="center">
+<p align="left"><b>Neuter gender:</b><br />
+	</p><div align="left">
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
