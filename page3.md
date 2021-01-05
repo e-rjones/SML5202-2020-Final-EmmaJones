@@ -1,6 +1,83 @@
 <h2> Grammar </h2> 
 
-<p><strong>Add information on the three genders, tenses, difference between imperfective and perfective cases and a brief overview of the Russian case system</strong></p>
+<p align="center"><b>Masculine gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
+            <tbody>
+              <tr align="middle">
+                <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
+                <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
+              </tr>
+              <tr align="middle">
+                <td><font face="Verdana" size="2">до<u>м</u></font></td>
+                <td><font face="Verdana" size="2">in a consonant</font></td>
+              </tr>
+              <tr align="middle">
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">ча<u>й</u></font></td>
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">in <b>-й</b></font></td>
+              </tr>
+            </tbody>
+          </table>
+	</div>
+
+<br />
+<p align="center"><b>Feminine gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
+            <tbody>
+              <tr align="middle">
+                <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
+                <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
+              </tr>
+              <tr align="middle">
+                <td><font face="Verdana" size="2">картин<u>а</u></font></td>
+                <td><font face="Verdana" size="2">in <b>-a</b></font></td>
+              </tr>
+              <tr align="middle">
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">семь<u>я</u></font></td>
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
+                  <b>-я</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+              </tr>
+              
+              <tr align="middle">
+                <td><font face="Verdana" size="2">истор<u>ия</u></font></td>
+                <td><font face="Verdana" size="2">in <b>-ия</b></font></td>
+              </tr>
+            </tbody>
+          </table>
+	</div>
+
+<br />
+<p align="center"><b>Neuter gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
+            <tbody>
+              <tr align="middle">
+                <td width="200" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Word</b></font></td>
+                <td width="150" bgcolor="#E8E8E8"><font face="Verdana" size="2"><b>Ending</b></font></td>
+              </tr>
+              <tr align="middle">
+                <td><font face="Verdana" size="2">письм<u>o</u></font></td>
+                <td><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in <b>-o</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+              </tr>
+              <tr align="middle">
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">плать<u>e</u></font></td>
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
+                  <b>-e</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+              </tr>
+	      <tr align="middle">
+                <td><font face="Verdana" size="2">вниман<u>ие</u></font></td>
+                <td><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in <b>-ие</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+              </tr>
+              <tr align="middle">
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">вре<u>мя</u></font></td>
+                <td bgcolor="#E8E8E8"><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;in
+                  <b>-мя</b>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+              </tr>
+            </tbody>
+          </table>
+	</div>
+
 
 <div class="container"> 
 <h3>Tense Formation of Imperfective Verbs</h3>
