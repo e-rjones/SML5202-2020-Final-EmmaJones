@@ -11,7 +11,61 @@
   </div>
   <div class="column right" style="background-color:#b7cad9;">
     <h2>Learn a new word!</h2>
-    <p>Some text..</p>
+
+<button onclick="loadWord()">Click to see another word</button>
+
+<p id="word"></p>
+
+<script>
+var words = [ 
+'часы', 
+'дом', 
+'неделя',    
+'книга',
+'стол',
+'лампа',
+'карандаш',
+'окно',
+'стул',
+'улица',
+'мужчина',
+'женщина',
+'мальчик',
+'девочка'
+];
+
+var examples = [
+'<i>clock</i>', 
+'<i>house</i>', 
+'<i>week</i>',
+'<i>book</i>',
+'<i>table</i>',
+'<i>lamp</i>',
+'<i>pencil</i>',
+'<i>window</i>',
+'<i>chair</i>',
+'<i>street</i>',
+'<i>man</i>',
+'<i>woman</i>',
+'<i>boy</i>',
+'<i>girl</i>'
+];
+
+var wordNo;
+var meaningNo;
+function loadWord() {
+    meaningNo = Math.floor(Math.random() * (words.length));
+    if(meaningNo !== wordNo) {
+    	document.getElementById("word").innerHTML = "<dt>" + words[meaningNo] + "</dt>" + "<dd>" + examples[meaningNo] + "</dd>";
+   	wordNo = meaningNo;
+    	return wordNo;
+    	}
+    	else {
+    	loadWord();
+    	}
+	}
+loadWord();
+</script>
   </div>
 </div>
  
