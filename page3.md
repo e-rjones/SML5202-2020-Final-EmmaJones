@@ -1,4 +1,4 @@
-<h2 align="center"> Grammar </h2> 
+<h1 align="center"> Grammar </h1> 
 
 <p align="center"><b>Masculine gender:</b><br />
 	</p><div align="center">
