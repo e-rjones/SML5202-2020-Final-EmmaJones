@@ -49,7 +49,7 @@
 
 <div class="row">
   <div class="column">
-        <a href="http://masterrussian.com/"
+   <a href="http://masterrussian.com/">
      <div class="card">
       <h3>MasterRussian</h3>
       <p>more grammar information</p>
@@ -58,7 +58,7 @@
  </div>
 
  <div class="column">
-      <a href="https://translate.yandex.com/"
+      <a href="https://translate.yandex.com/">
     <div class="card">
       <h3>Yandex Translate</h3>
       <p>translation tool</p>
@@ -67,7 +67,7 @@
  </div>
   
    <div class="column">
-      <a href="https://ru.euronews.com/"
+      <a href="https://ru.euronews.com/">
      <div class="card">
       <h3>Euronews</h3>    
       <p>access news in Russian</p>
