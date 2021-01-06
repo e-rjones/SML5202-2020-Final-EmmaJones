@@ -1,5 +1,6 @@
 <h1>Resources</h1>
 <p>This page will include links to websites like Word Reference, Reverso Context, Russian newspaper sites, and other websites beneficial to the user's learning.</p>
+
 <div class="container-fluid">
       <style>
 * {
@@ -48,24 +49,30 @@
 
 <div class="row">
   <div class="column">
+        <a href="http://masterrussian.com/"
      <div class="card">
       <h3>MasterRussian</h3>
       <p>more grammar information</p>
        </div>
+      </a>
  </div>
 
  <div class="column">
+      <a href="https://translate.yandex.com/"
     <div class="card">
       <h3>Yandex Translate</h3>
       <p>translation tool</p>
        </div>
+       </a>
  </div>
   
    <div class="column">
+      <a href="https://ru.euronews.com/"
      <div class="card">
       <h3>Euronews</h3>    
-      <p>news website</p>
+      <p>access news in Russian</p>
       </div>
+      </a>
  </div>
   
    <div class="column">
@@ -75,6 +82,7 @@
        </div>
  </div>
 </div>
+
 <hr />
 
 <p>Some additional paragraph text in here.</p>
