@@ -91,7 +91,7 @@
 	
 <p>&nbsp;</p>
 
-<img src="https://images.app.goo.gl/J3BXzHYoRPsSqnmY8" alt="Russian Noun Declension" style="width:500px;height:600px;">
+<img src="https://images.app.goo.gl/J3BXzHYoRPsSqnmY8" alt="Russian Noun Declension">
 
 <div class="container"> 
 <h3>Tense Formation of Imperfective Verbs</h3>
