@@ -51,7 +51,7 @@
    <a href="http://masterrussian.com/">
      <div class="card">
       <h3>MasterRussian</h3>
-      <p>more grammar information</p>
+      <p>more grammar<br>information</p>
        </div>
       </a>
  </div>
@@ -60,6 +60,7 @@
       <a href="https://translate.yandex.com/">
     <div class="card">
       <h3>Yandex Translate</h3>
+	    <p>&nbsp;</p>
       <p>translation tool</p>
        </div>
        </a>
@@ -69,7 +70,7 @@
       <a href="https://ru.euronews.com/">
      <div class="card">
       <h3>Euronews</h3>    
-      <p>access news in Russian</p>
+      <p>access news in<br>Russian</p>
       </div>
       </a>
  </div>
@@ -78,6 +79,7 @@
 <a href="https://www.wordreference.com/">
      <div class="card">
       <h3>WordReference</h3>
+      <p>&nbsp;</p>
       <p>RU⇌EN dictionary</p>
        </div>
 	</a>
