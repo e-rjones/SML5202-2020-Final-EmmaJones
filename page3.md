@@ -78,7 +78,8 @@
             </tbody>
           </table>
 	</div>
-	
+<p> <b>NOTE:</b>Nouns ending in the soft sign <b>-ь</b> can be either masculine or feminine: день (day - masculine), жизнь (life - feminine). The best way to tell the gender of such nouns is to memorize it as you progress with your Russian language study.</p>
+
 <p>&nbsp;</p>
 <h2> 2. Now try answering these questions about Russian gender!</h2>
 <p><strong>Remember:</strong> The Russian vowels are <strong>а, э, ы, о, у, я, е, и, ё, ю</strong>
