@@ -1,5 +1,4 @@
 <h1>Resources</h1>
-<p>This page will include links to websites like Word Reference, Reverso Context, Russian newspaper sites, and other websites beneficial to the user's learning.</p>
 
 <div class="container-fluid">
       <style>
@@ -76,17 +75,21 @@
  </div>
   
    <div class="column">
+<a href="https://www.wordreference.com/">
      <div class="card">
-      <h3>Other</h3>
-      <p>Some optional text</p>
+      <h3>WordReference</h3>
+      <p>RU⇌EN dictionary</p>
        </div>
+	</a>
  </div>
  
  <div class="column">
+<a href="https://www.russianbookshop.co.uk/index.php">
      <div class="card">
-      <h3>Other</h3>
-      <p>Some optional text</p>
+      <h3>The Russian Bookshop</h3>
+      <p>Russian language<br>and literature</p>
        </div>
+	</a>
  </div>
 </div>
 
