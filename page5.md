@@ -75,7 +75,6 @@
       <p>Some optional text</p>
        </div>
  </div>
- 
 </div>
 <hr />
 
