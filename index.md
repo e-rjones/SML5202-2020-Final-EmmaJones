@@ -78,9 +78,7 @@ loadWord();
     <div class="thumbnail">
     <img src="images/moscow1.jpg" alt="The Red Square in Moscow" style="height:100%">
         <div class="caption">
-		<p>div {
-    text-align:center;
-}<a href="https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square.jpg">"Red Square, Moscow, Russia"</a>, by <a href="https://commons.wikimedia.org/wiki/User:Rex/Photos">Bart Slingerland</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.<br></p>
+		<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square.jpg">"Red Square, Moscow, Russia"</a>, by <a href="https://commons.wikimedia.org/wiki/User:Rex/Photos">Bart Slingerland</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.<br></p>
 		<p>&nbsp;</p>
 		<p>The Red Square in Moscow. It is home to the Kremlin, GUM department store, the State History Museum, Lenin's Mausoleum, and of course, St Basil’s Cathedral. All the major streets of Moscow radiate from here. Red Square is the central square of Moscow and the symbolic center of all Russia. </p>
         </div>
