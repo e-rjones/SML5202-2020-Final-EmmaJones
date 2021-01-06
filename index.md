@@ -88,7 +88,7 @@ loadWord();
     <div class="thumbnail">
         <img src="images/rusflag2.jpg" alt="The Russian flag" style="height:100%">
         <div class="caption">
-		<p><a href="https://commons.wikimedia.org/wiki/File:Russia_Flag.svg">"Flag of Russia"</a>, by <a href="https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Professorsolo2015&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1">Professorsolo2015</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.<br></p>
+		<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Russia_Flag.svg">"Flag of Russia"</a>, by <a href="https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Professorsolo2015&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1">Professorsolo2015</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.<br></p>
 		<p>&nbsp;</p>
           <p>The Russian flag.</p>
            <p>&nbsp;</p>
@@ -100,7 +100,7 @@ loadWord();
     <div class="thumbnail">
         <img src="images/stp (1).jpg" alt="The Winter Palace in Saint Petersburg" style="height:100%">
         <div class="caption">
-		<p>by <a href="https://pixabay.com/users/al-grishin-7086105/">Alexander Grishin</a> licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>.<br></p>
+		<p style="text-align:center;">by <a href="https://pixabay.com/users/al-grishin-7086105/">Alexander Grishin</a> licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>.<br></p>
 		<p>&nbsp;</p>
           <p>The Winter Palace in St. Petersburg. It was the official residence of the Russian Emperors from 1732 to 1917. Today, the palace and its precincts form the Hermitage Museum.</p>
           <p>&nbsp;</p>
