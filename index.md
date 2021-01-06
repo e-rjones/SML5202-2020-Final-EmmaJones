@@ -1,12 +1,12 @@
 <div class="row">
   <div class="column left" style="background-color:#white;">
     <h1>Welcome to <b>Introduction to Russian</b></h1>
-    <h2>This website offers a light introduction to the Russian language.</h2> 
-    <p>Including:</p>
+    <h2>Here you will find:</h2> 
   <ol>
-  <li>The Russian alphabet.</li>
-  <li>Basic grammar.</li>
-  <li>Fun interactive activities to introduce vocabulary.</li>
+  <li>An introduction to the Russian alphabet.</li>
+  <li>Some basic grammar rules.</li>
+  <li>Fun interactive activities to introduce useful vocabulary.</li>
+  <li>Links to more resources to help you continue your Russian language learning journey.</li>
 </ol>
   </div>
   <div class="column right" style="background-color:#b7cad9;">
