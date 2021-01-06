@@ -78,7 +78,9 @@ loadWord();
     <div class="thumbnail">
     <img src="images/moscow1.jpg" alt="The Red Square in Moscow" style="height:100%">
         <div class="caption">
-		<p><a href="https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square.jpg">"Red Square, Moscow, Russia"</a>, by <a href="https://commons.wikimedia.org/wiki/User:Rex/Photos">Bart Slingerland</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.<br></p>
+		<p>div {
+    text-align:center;
+}<a href="https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square.jpg">"Red Square, Moscow, Russia"</a>, by <a href="https://commons.wikimedia.org/wiki/User:Rex/Photos">Bart Slingerland</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.<br></p>
 		<p>&nbsp;</p>
 		<p>The Red Square in Moscow. It is home to the Kremlin, GUM department store, the State History Museum, Lenin's Mausoleum, and of course, St Basil’s Cathedral. All the major streets of Moscow radiate from here. Red Square is the central square of Moscow and the symbolic center of all Russia. </p>
         </div>
@@ -88,7 +90,7 @@ loadWord();
     <div class="thumbnail">
         <img src="images/rusflag2.jpg" alt="The Russian flag" style="height:100%">
         <div class="caption">
-		<p><a href="https://commons.wikimedia.org/wiki/File:Russia_Flag.svg">Flag of Russia</a> by <a href="https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Professorsolo2015&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1">Professorsolo2015</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.<br></p>
+		<p><a href="https://commons.wikimedia.org/wiki/File:Russia_Flag.svg">Flag of Russia</a>, by <a href="https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Professorsolo2015&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1">Professorsolo2015</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.<br></p>
 		<p>&nbsp;</p>
           <p>The Russian flag.</p>
            <p>&nbsp;</p>
