@@ -60,7 +60,6 @@
       <a href="https://translate.yandex.com/">
     <div class="card">
       <h3>Yandex Translate</h3>
-	    <p>&nbsp;</p>
       <p>translation tool</p>
        </div>
        </a>
@@ -79,7 +78,6 @@
 <a href="https://www.wordreference.com/">
      <div class="card">
       <h3>WordReference</h3>
-      <p>&nbsp;</p>
       <p>RU⇌EN dictionary</p>
        </div>
 	</a>
