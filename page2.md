@@ -1,6 +1,6 @@
 <h2 style="text-align:center;"> The Russian Alphabet </h2> 
-<p>&nbsp;<p/>>
-<p>This page will help you to familiarise yourself with the Russian alphabet, as well as learning the pronunciation of each letter.<br>Follow the steps below.</p>
+<p>&nbsp;<p/>
+<p style="text-align:center;">This page will help you to familiarise yourself with the Russian alphabet, as well as learning the pronunciation of each letter.</p>
 <p>&nbsp;</p>
 <h3>1. Read through the following information on the Russian alphabet.</h3>
 <ul>
