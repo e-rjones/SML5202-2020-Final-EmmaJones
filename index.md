@@ -78,7 +78,9 @@ loadWord();
     <div class="thumbnail">
     <img src="images/moscow1.jpg" alt="The Red Square in Moscow" style="height:100%">
         <div class="caption">
-          <p>Source - <a href="https://pixabay.com/users/al-grishin-7086105/">Alexander Grishin</a> licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a><br> The Red Square in Moscow. It is home to the Kremlin, GUM department store, the State History Museum, Lenin's Mausoleum, and of course, St Basil’s Cathedral. All the major streets of Moscow radiate from here. Red Square is the central square of Moscow and the symbolic center of all Russia. </p>
+		<p><a href="https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square.jpg">"Red Square, Moscow, Russia"</a>, by <a href="https://commons.wikimedia.org/wiki/User:Rex/Photos">Bart Slingerland</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.<br></p>
+		<p>&nbsp;</p>
+		<p>The Red Square in Moscow. It is home to the Kremlin, GUM department store, the State History Museum, Lenin's Mausoleum, and of course, St Basil’s Cathedral. All the major streets of Moscow radiate from here. Red Square is the central square of Moscow and the symbolic center of all Russia. </p>
         </div>
     </div>
   </div>
@@ -96,6 +98,8 @@ loadWord();
     <div class="thumbnail">
         <img src="images/stp (1).jpg" alt="The Winter Palace in Saint Petersburg" style="height:100%">
         <div class="caption">
+		<p>Source - <a href="https://pixabay.com/users/al-grishin-7086105/">Alexander Grishin</a> licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>.<br></p>
+		<p>&nbsp;</p>
           <p>The Winter Palace in St. Petersburg. It was the official residence of the Russian Emperors from 1732 to 1917. Today, the palace and its precincts form the Hermitage Museum.</p>
           <p>&nbsp;</p>
         </div>
