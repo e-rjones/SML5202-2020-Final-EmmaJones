@@ -77,3 +77,8 @@
  </div>
  
 </div>
+<hr />
+
+<p>Some additional paragraph text in here.</p>
+
+ </div>
