@@ -10,7 +10,7 @@
 
 .column {
   float: left;
-  width: 25%; 
+  width: 20%; 
   padding: 0 10px;
 }
 
@@ -76,6 +76,13 @@
  </div>
   
    <div class="column">
+     <div class="card">
+      <h3>Other</h3>
+      <p>Some optional text</p>
+       </div>
+ </div>
+ 
+ <div class="column">
      <div class="card">
       <h3>Other</h3>
       <p>Some optional text</p>
