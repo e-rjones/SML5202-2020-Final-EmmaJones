@@ -1,6 +1,6 @@
 <h2 style="text-align:center;"> The Russian Alphabet </h2> 
-
-<h3>Part 1. Read through the following information on the Russian Alphabet.</h3>
+<p>&nbsp;<p/>
+<h3>Part 1. Read through the following information on the Russian alphabet.</h3>
 <ul>
   <li>The Russian alphabet is made up of letters from the Cyrillic script.</li>
   <li>The modern Russian alphabet consists of 33 letters.</li>
