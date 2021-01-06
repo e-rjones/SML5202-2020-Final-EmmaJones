@@ -20,6 +20,5 @@
 <p>&nbsp;</p>
 <h3>Part 3. Watch this video of the Russian alphabet song to help you memorise the sounds.</h3> 
 <div class="container"> 
-<iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=GIKX9RYOX5w"> 
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GIKX9RYOX5w?start=19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
