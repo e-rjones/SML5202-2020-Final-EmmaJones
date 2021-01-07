@@ -8,7 +8,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2 id="furniture">Furniture - Мебель</h2>
-<p>&nbsp;</p>
 <h3>Go through these flashcards to learn some Russian words for types of furniture.</h3>
 <iframe src="https://quizlet.com/559748246/flashcards/embed?i=ejr67&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 <p>&nbsp;</p>
@@ -19,7 +18,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3 id="food">Food & Drink - Еда и напитки</h3> 
-<p>&nbsp;</p>
 <h4>Go through these flashcards to learn some Russian words for food and drink.</h4>
 <iframe src="https://quizlet.com/559750723/flashcards/embed?i=ejr67&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 <p>&nbsp;</p>
