@@ -149,8 +149,8 @@
 
 
 <h2>Part 4: Noun Declension</h2>
-<p>&nbsp;</p>
 <h3>1. Useful reference material for noun declension.
+	<p>&nbsp;</p>
 <img src="images/noundec.jpg" alt="Russian Noun Declension" style="height:100%">
 
 <h3>2. Click <a href="http://masterrussian.com/aa052000a.shtml">here</a> for more in-depth information on singular noun declension.</h3>
