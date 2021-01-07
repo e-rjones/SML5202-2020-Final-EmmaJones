@@ -1,6 +1,7 @@
 <h1 align="center"> Grammar </h1> 
 <p>&nbsp;</p>
 <p align="center">This page will provide you with some basic information on the gender of nouns, recognising plural formations, an introduction to the Russian case system and noun declension.</p>
+<p align="center">Material sourced from <a href="http://masterrussian.com/">masterrussian.com</a>.</p>
 <h2> Part 1: Noun Gender</h2>
 <h3> 1. Read through the information on the gender of nouns.</h3>
 <p> There are three genders in Russian: <strong>masculine, feminine and neuter</strong>.<br>You can usually determine the gender of a noun by its ending.<br>Here are some basic rules:<p>
@@ -148,6 +149,7 @@
 
 
 <h2>Part 4: Noun Declension</h2>
+<p>&nbsp;</p>
 <h3>1. Useful reference material for noun declension.
 <img src="images/noundec.jpg" alt="Russian Noun Declension" style="height:100%">
 
