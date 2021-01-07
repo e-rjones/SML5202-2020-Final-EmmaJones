@@ -1,4 +1,4 @@
-<h1 align="center">Activities to help learn vocabulary</h1>
+<h1 align="center">Activities to help you learn vocabulary</h1>
 <p>&nbsp;</p>
 <h3>Click on of the topics below to learn more vocabulary in that topic</h3>
 <a href="#furniture">Furniture - Мебель</a><br>
