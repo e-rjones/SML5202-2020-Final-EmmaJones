@@ -119,7 +119,7 @@
               <tr align="middle">
                 <td>masculine and feminine with the stem ending
                   in <b>-к</b>, <b>-г</b>, <b>-x</b>, <b>-ч</b>, <b>-щ</b>, <b>-ж</b>,
-                  <b>-ш</b>,</font></td>
+                  <b>-ш</b>,</td>
                 <td><b>-и</b></td>
                 <td>ноЖ - ножи<br>ноГа - ноги</td>
               </tr>
