@@ -95,6 +95,7 @@
 <p>English plurals often end in <b>-s</b>. In Russian, there are more endings to make plurals. They are all summed up in the table:</p>
 
 <br>
+<div align="center">
           <table cellSpacing="0" cellPadding="4" align="center" border="0">
             <tbody>
               <tr align="middle">
@@ -105,7 +106,7 @@
                 <td>masculine ending in a hard consonant;<br>
                   feminine ending in <b>-a</b><br></td>
                 <td><b>-ы</b>;<br>
-<b>-ы, -и</b><br></td>
+		<b>-ы, -и</b><br></td>
                 <td>стол - столы<br />улица - улицы<br />чашка - чашки</td>
               </tr>
               <tr align="middle">
@@ -136,6 +137,8 @@
               </tr>
             </tbody>
           </table>
+	  </div>
+<p>&nbsp;</p>
 
 <p>Some nouns are always singular. These are nouns that designate substances <b>кислород, медь</b> (oxygen, copper), food products <b>сахар, мука</b> (sugar, flour), a block of objects <b>мебель</b> (furniture), some actions <b>охота</b> (hunting), feelings <b>любовь, здоровье</b> (love, health), sorts of fabric <b>бархат</b> (velvet), medicine <b>аспирин</b> (aspirin), some vegetables and berries <b>картофель, морковь</b> (potato, carrots).</p>
 
