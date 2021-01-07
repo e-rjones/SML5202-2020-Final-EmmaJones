@@ -91,7 +91,7 @@
 	
 <p>&nbsp;</p>
 
-<h2>Part 2: Noun Number</2>
+<h2>Part 2: Noun Number</h2>
 <p>English plurals often end in <b>-s</b>. In Russian, there are more endings to make plurals. They are all summed up in the table:</p>
 
 <br>
