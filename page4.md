@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 <h3>Click on of the topics below to learn more vocabulary in that topic</h3>
 <a href="#furniture">Furniture - Мебель</a><br>
-<a href="#food">Food & Drink - Еда и напитки</a><br>      
+<a href="#food">Food & Drink - Еда и напитки</a>      
 <a href="#weather">Weather - Погода</a>
 
 
