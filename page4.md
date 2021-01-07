@@ -1,9 +1,9 @@
 <h1 align="center">Activities to help learn vocabulary</h1>
-
+<p>&nbsp;</p>
 <h3>Click on of the topics below to learn more vocabulary in that topic</h3>
-<a href="#furniture">Furniture - Мебель</a>
-<a href="#food">Food & Drink - Еда и напитки</a>      
-<a href="weather">Weather - Погода</a>
+<a href="#furniture">Furniture - Мебель</a><br>
+<a href="#food">Food & Drink - Еда и напитки</a><br>      
+<a href="#weather">Weather - Погода</a>
 
 
 <h3 id="furniture">Furniture - Мебель</h3>
