@@ -154,8 +154,10 @@
 <h2>Part 3: Introduction to the case system</h2>
 <h3>3.1. Read the following information on the Russian case system.</h3>
 <p>There are six cases in Russian:
-          nominative, genitive, dative, accusative, instrumental, and
-          prepositional.
+	<p>&nbsp;</p>
+          <b>nominative, genitive, dative, accusative, instrumental, and
+		  prepositional.</b>
+	<p>&nbsp;</p>
           <p><b>1.</b> The nominative case answers the
           questions &quot;who?&quot; or &quot;what?&quot;. It is an initial
           form. All dictionaries give nouns in the nominative.
