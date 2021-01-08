@@ -156,7 +156,6 @@
           <b>nominative, genitive, dative, accusative, instrumental, and
 		  prepositional.</b>
 	<p>&nbsp;</p>
-	<p>&nbsp;</p>
           <p><b>1.</b> The nominative case answers the
           questions &quot;who?&quot; or &quot;what?&quot;. It is an initial
           form. All dictionaries give nouns in the nominative.
