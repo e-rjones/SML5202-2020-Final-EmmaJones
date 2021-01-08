@@ -3,7 +3,7 @@
 <p align="center">This page will provide you with some basic information on the gender of nouns, recognising plural formations, an introduction to the Russian case system and noun declension.</p>
 <p align="center">Material sourced from <a href="http://masterrussian.com/">masterrussian.com</a>.</p>
 <h2> Part 1: Noun Gender</h2>
-<h3> 1. Read through the information on the gender of nouns.</h3>
+<h3> 1.1. Read through the information on the gender of nouns.</h3>
 <p> There are three genders in Russian: <strong>masculine, feminine and neuter</strong>.<br>You can usually determine the gender of a noun by its ending.<br>Here are some basic rules:<p>
 <p align="center"><b>Masculine gender:</b><br />
 	</p><div align="center">
@@ -85,7 +85,7 @@
 <p> <b>NOTE: </b>Nouns ending in the soft sign <b>-ь</b> can be either masculine or feminine: день (day - masculine), жизнь (life - feminine). The best way to tell the gender of such nouns is to memorize it as you progress with your Russian language study.</p>
 
 <p>&nbsp;</p>
-<h3> 2. Now try answering these questions about Russian noun gender!</h3>
+<h3> 1.2. Now try answering these questions about Russian noun gender!</h3>
 <p><strong>Remember:</strong> The Russian vowels are <strong>а, э, ы, о, у, я, е, и, ё, ю</strong>
 <iframe src="https://h5p.org/h5p/embed/1085037" width="1090" height="821" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p>&nbsp;</p>	
@@ -93,7 +93,7 @@
 <p>&nbsp;</p>
 
 <h2>Part 2: Noun Number</h2>
-<h3> 1. Read through the following information on noun plurality.</h3>
+<h3> 2.1. Read through the following information on noun plurality.</h3>
 <p>English plurals often end in <b>-s</b>. In Russian, there are more endings to make plurals. They are all summed up in the table:</p>
 
 <br>
@@ -145,14 +145,14 @@
 <p>Some nouns are always singular. These are nouns that designate substances <b>кислород, медь</b> (oxygen, copper), food products <b>сахар, мука</b> (sugar, flour), a block of objects <b>мебель</b> (furniture), some actions <b>охота</b> (hunting), feelings <b>любовь, здоровье</b> (love, health), sorts of fabric <b>бархат</b> (velvet), medicine <b>аспирин</b> (aspirin), some vegetables and berries <b>картофель, морковь</b> (potato, carrots).</p>
 
 <p>&nbsp;</p>
-<h3> 2. Now try answering these questions about Russian noun number!</h3>
+<h3> 2.2. Now try answering these questions about Russian noun number!</h3>
 <p>&nbsp;</p>
 <iframe src="https://h5p.org/h5p/embed/1086679" width="1090" height="821" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2>Part 3: Introduction to the case system</h2>
-<h3>1. Read the following information on the Russian case system.</h3>
+<h3>3.1. Read the following information on the Russian case system.</h3>
 <p>There are six cases in Russian:
           nominative, genitive, dative, accusative, instrumental, and
           prepositional.
@@ -218,6 +218,8 @@
           adjectives, pronouns and numerals may have different case forms in the
           sentence. Thus, to understand Russian speech and speak Russian
           correctly, it is necessary to learn how to use cases in Russian.
+<p>&nbsp;</p>
+<h3>3.2.</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
