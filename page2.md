@@ -12,7 +12,7 @@
 </ul>  
  
 <p>&nbsp;</p>
-<h3>2. Go through the flashcards below annd listen to the pronunciation of each letter.</h3>
+<h3>2. Go through the flashcards below and listen to the pronunciation of each letter.</h3>
 <p>Note the letter in its cursive (handwritten) form.</p>
 <p>(For sound: click on the <b>Options</b> button below and select <b>On</b> under <b>Audio</b>)</p>
 <hr>
