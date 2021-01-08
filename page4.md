@@ -1,4 +1,4 @@
-<h1 align="center">Activities to help you learn vocabulary</h1>
+<h1 align="center">Activities</h1>
 <p>&nbsp;</p>
 <p align="center">On this page you can find flashcards and activities to help you learn vocabulary.</p>
 <p>&nbsp;</p>
