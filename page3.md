@@ -90,7 +90,6 @@
 <iframe src="https://h5p.org/h5p/embed/1085037" width="1090" height="821" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p>&nbsp;</p>	
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <h2>Part 2: Noun Number</h2>
 <h3> 2.1. Read through the following information on noun plurality.</h3>
@@ -150,13 +149,13 @@
 <iframe src="https://h5p.org/h5p/embed/1086679" width="1090" height="821" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <h2>Part 3: Introduction to the case system</h2>
+<p>&nbsp;</p>
 <h3>3.1. Read the following information on the Russian case system.</h3>
 <p>There are six cases in Russian:
-	<p>&nbsp;</p>
           <b>nominative, genitive, dative, accusative, instrumental, and
 		  prepositional.</b>
+	<p>&nbsp;</p>
 	<p>&nbsp;</p>
           <p><b>1.</b> The nominative case answers the
           questions &quot;who?&quot; or &quot;what?&quot;. It is an initial
