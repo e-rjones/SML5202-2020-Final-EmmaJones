@@ -1,6 +1,6 @@
 <h1 align="center">Activities to help you learn vocabulary</h1>
 <p>&nbsp;</p>
-<h2>Click on of the topics below to learn more vocabulary in that topic</h2>
+<h2>Click on of the topics below to learn some vocabulary</h2>
 <a href="#furniture">Furniture - Мебель</a><br>
 <a href="#food">Food & Drink - Еда и напитки</a>      
 <a href="#weather">Weather - Погода</a>
