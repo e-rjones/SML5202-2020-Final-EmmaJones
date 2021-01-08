@@ -1,5 +1,7 @@
 <h1 align="center">Activities to help you learn vocabulary</h1>
 <p>&nbsp;</p>
+<p>On this page you can find flashcards and activities to help you learn vocabulary.</p>
+<p>&nbsp;</p>
 <h2>Click on of the topics below to learn some vocabulary</h2>
 <a href="#furniture">Furniture - Мебель</a><br>
 <a href="#food">Food & Drink - Еда и напитки</a>      
