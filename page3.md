@@ -222,10 +222,6 @@
           correctly, it is necessary to learn how to use cases in Russian.
 <p>&nbsp;</p>
 <h3>3.2. For further reading on each of the cases, see below:</h3>
-div { 
-padding: 50px;
-margin: 0px;
-}
 <ul>
 <li><a href="http://masterrussian.com/aa060400a.shtml">Nominative</a></li>
 <li><a href="http://masterrussian.com/aa061500a.shtml">Genitive</a></li>
@@ -234,7 +230,7 @@ margin: 0px;
 <li><a href="http://masterrussian.com/aa073000a.shtml">Instrumental</a></li>
 <li><a href="http://masterrussian.com/aa081500a.shtml">Prepositional</a></li>
 </ul>
-</div>
+
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
