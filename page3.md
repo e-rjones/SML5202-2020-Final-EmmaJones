@@ -222,7 +222,7 @@
           correctly, it is necessary to learn how to use cases in Russian.
 <p>&nbsp;</p>
 <h3>3.2. For further reading on each of the cases, see below:</h3>
-<ul>
+<ul style=padding: 50px;>
 <li><a href="http://masterrussian.com/aa060400a.shtml">Nominative</a></li>
 <li><a href="http://masterrussian.com/aa061500a.shtml">Genitive</a></li>
 <li><a href="http://masterrussian.com/aa070100a.shtml">Dative</a></li>
