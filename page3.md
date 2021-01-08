@@ -150,7 +150,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2>Part 3: Introduction to the case system</h2>
-<p>&nbsp;</p>
 <h3>3.1. Read the following information on the Russian case system.</h3>
 <p>There are six cases in Russian:
           <b>nominative, genitive, dative, accusative, instrumental, and
