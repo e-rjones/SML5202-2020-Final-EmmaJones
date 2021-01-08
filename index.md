@@ -8,7 +8,8 @@
   <li>Fun interactive activities to introduce useful vocabulary.</li>
   <li>Links to more resources to help you continue your Russian language learning journey.</li>
 </ol>
-	  <p>The recommended starting place is the <a href="https://e-rjones.github.io/SML5202-2020-Final-EmmaJones/page2.html">alphabet</a> and then move onto <a href="https://e-rjones.github.io/SML5202-2020-Final-EmmaJones/page3.html">grammar</a> and <a href="https://e-rjones.github.io/SML5202-2020-Final-EmmaJones/page4.html">activities</a>.
+	  <p>The recommended starting place is the <a href="https://e-rjones.github.io/SML5202-2020-Final-EmmaJones/page2.html">alphabet</a> <br>
+		  and then move onto <a href="https://e-rjones.github.io/SML5202-2020-Final-EmmaJones/page3.html">grammar</a> and <a href="https://e-rjones.github.io/SML5202-2020-Final-EmmaJones/page4.html">activities</a>.
   </div>
   <div class="column right" style="background-color:#b7cad9;">
     <h2>Learn a new word!</h2>
