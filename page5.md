@@ -42,7 +42,7 @@
  <div class="column">
 <a href="https://www.russianbookshop.co.uk/index.php">
      <div class="card">
-      <h3>The Russian Bookshop</h3>
+      <h3>Russian Bookshop</h3>
       <p>Russian language books</p>
        </div>
 	</a>
