@@ -1,4 +1,5 @@
 <div class="row">
+<div id="intro">
   <div class="column left" style="background-color:#fffcf2;">
     <h1>Welcome to <b>Introduction to Russian</b></h1>
     <h2>Here you will find:</h2> 
@@ -68,7 +69,7 @@ loadWord();
 </script>
   </div>
 </div>
- 
+ </div>
 <hr>
 <div class="row">
   <div class="col-md-4">
