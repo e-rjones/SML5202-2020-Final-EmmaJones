@@ -1,8 +1,8 @@
 <h1 align="center">Resources</h1>
 <p>&nbsp;</p>
 <div class="container-fluid">
-<div class="row">
 <div id="resources">
+<div class="row">
   <div class="column">
    <a href="http://masterrussian.com/">
      <div class="card">
