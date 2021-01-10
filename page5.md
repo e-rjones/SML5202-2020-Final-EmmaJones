@@ -1,5 +1,5 @@
-<h1>Resources</h1>
-
+<h1 align="center">Resources</h1>
+<p>&nbsp;</p>
 <div class="container-fluid">
 
 <div class="row">
