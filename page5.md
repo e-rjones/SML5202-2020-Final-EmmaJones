@@ -7,7 +7,7 @@
    <a href="http://masterrussian.com/">
      <div class="card">
       <h3>MasterRussian</h3>
-      <p>more grammar<br>information</p>
+      <p>grammar help</p>
        </div>
       </a>
  </div>
@@ -25,7 +25,7 @@
       <a href="https://ru.euronews.com/">
      <div class="card">
       <h3>Euronews</h3>    
-      <p>access news in<br>Russian</p>
+      <p>news in Russian</p>
       </div>
       </a>
  </div>
@@ -43,7 +43,7 @@
 <a href="https://www.russianbookshop.co.uk/index.php">
      <div class="card">
       <h3>The Russian Bookshop</h3>
-      <p>Russian language<br>and literature</p>
+      <p>Russian language books</p>
        </div>
 	</a>
  </div>
