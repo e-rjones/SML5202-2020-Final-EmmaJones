@@ -213,7 +213,7 @@
 	стол --> столе (the ending -е is added)</p>
           </blockquote>
           <p>Very often the case of a noun is
-	connected with a preposition (for example:<b>в</b>, <b>на</b>, <b>о</b>) which stands before it.<br>The nouns,
+	connected with a preposition (for example: <b>в</b>, <b>на</b>, <b>о</b>) which stands before it.<br>The nouns,
           adjectives, pronouns and numerals may have different case forms in the
           sentence.<br>Thus, to understand Russian speech and speak Russian
           correctly, it is necessary to learn how to use cases in Russian.
