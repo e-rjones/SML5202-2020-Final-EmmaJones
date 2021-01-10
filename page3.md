@@ -14,11 +14,11 @@
                 <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
               </tr>
               <tr align="middle">
-                <td>до<u>м</u></td>
+                <td>до<b>м</b></td>
                 <td>in a consonant</td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8">ча<u>й</u></td>
+                <td bgcolor="#E8E8E8">ча<b>й</b></td>
                 <td bgcolor="#E8E8E8">in <b>-й</b></td>
               </tr>
             </tbody>
@@ -35,16 +35,16 @@
                 <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
               </tr>
               <tr align="middle">
-                <td>картин<u>а</u></td>
+                <td>картин<b>а</b></td>
                 <td>in <b>-a</b></td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8">семь<u>я</u></td>
+                <td bgcolor="#E8E8E8">семь<b>я</b></td>
                 <td bgcolor="#E8E8E8">&nbsp;&nbsp;&nbsp;&nbsp;in
                   <b>-я</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
               <tr align="middle">
-                <td>истор<u>ия</u></td>
+                <td>истор<b>ия</b></td>
                 <td>in <b>-ия</b></td>
               </tr>
             </tbody>
@@ -61,20 +61,20 @@
                 <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
               </tr>
               <tr align="middle">
-                <td>письм<u>o</u></td>
+                <td>письм<b>o</b></td>
                 <td>&nbsp;&nbsp;&nbsp;&nbsp;in <b>-o</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8">плать<u>e</u></td>
+                <td bgcolor="#E8E8E8">плать<b>e</b></td>
                 <td bgcolor="#E8E8E8">&nbsp;&nbsp;&nbsp;&nbsp;in
                   <b>-e</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
 	      <tr align="middle">
-                <td>вниман<u>ие</u></td>
+                <td>вниман<b>ие</b></td>
                 <td>&nbsp;&nbsp;&nbsp;&nbsp;in <b>-ие</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
               <tr align="middle">
-                <td bgcolor="#E8E8E8">вре<u>мя</u></td>
+                <td bgcolor="#E8E8E8">вре<b>мя</b></td>
                 <td bgcolor="#E8E8E8">&nbsp;&nbsp;&nbsp;&nbsp;in
                   <b>-мя</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
               </tr>
@@ -122,7 +122,7 @@
                   in <b>-к</b>, <b>-г</b>, <b>-x</b>, <b>-ч</b>, <b>-щ</b>, <b>-ж</b>,
                   <b>-ш</b>,</td>
                 <td><b>-и</b></td>
-                <td>ноЖ - ножи<br>ноГа - ноги</td>
+		      <td>но<b>ж</b> - ножи<br>но<b>г</b>а - ноги</td>
               </tr>
               <tr align="middle">
                 <td bgcolor="#E8E8E8">neuter
@@ -213,9 +213,9 @@
 	стол --> столе (the ending -е is added)</p>
           </blockquote>
           <p>Very often the case of a noun is
-          connected with a preposition which stands before it. The nouns,
+	connected with a preposition (for example:<b>в</b>, <b>на</b>, <b>о</b>) which stands before it.<br>The nouns,
           adjectives, pronouns and numerals may have different case forms in the
-          sentence. Thus, to understand Russian speech and speak Russian
+          sentence.<br>Thus, to understand Russian speech and speak Russian
           correctly, it is necessary to learn how to use cases in Russian.
 <p>&nbsp;</p>
 <h3>3.2. For further reading on each of the cases, see below:</h3>
