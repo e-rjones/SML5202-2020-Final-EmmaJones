@@ -90,7 +90,6 @@
 	</a>
  </div>
 </div>
-</div>
 <hr />
 <p>For more fun ways to learn Russian visit <a href="https://www.digitaldialects.com/Russian.htm">Russian language games</a></p>
 <hr />
