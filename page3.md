@@ -5,31 +5,26 @@
 <h2> Part 1: Noun Gender</h2>
 <h3> 1.1. Read through the information on the gender of nouns.</h3>
 <p> There are three genders in Russian: <strong>masculine, feminine and neuter</strong>.<br>You can usually determine the gender of a noun by its ending.<br>Here are some basic rules:<p>
-<div class="container">
-  <h4>Masculine Gender</h4>
-  <table class="table table-striped" Spacing="0" cellPadding="4" align="center" border="0">
-    <thead>
-      <tr>
-        <th>Word</th>
-        <th>Ending</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>до<b>м</b></td>
-        <td><b>in a consonant<b></td>
-      </tr>
-      <tr>
-        <td>ча<b>й</b></td>
-        <td>in <b>-й</b></td>
-        
-      </tr>
-      
-     
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center"><b>Masculine gender:</b><br />
+	</p><div align="center">
+          <table cellSpacing="0" cellPadding="4" align="center" border="0">
+            <tbody>
+              <tr align="middle">
+                <td width="200" bgcolor="#E8E8E8"><b>Word</b></td>
+                <td width="150" bgcolor="#E8E8E8"><b>Ending</b></td>
+              </tr>
+              <tr align="middle">
+                <td>до<b>м</b></td>
+                <td>in a consonant</td>
+              </tr>
+              <tr align="middle">
+                <td bgcolor="#E8E8E8">ча<b>й</b></td>
+                <td bgcolor="#E8E8E8">in <b>-й</b></td>
+              </tr>
+            </tbody>
+          </table>
+	</div>
+
 
 <p>&nbsp;</p>
 <p align="center"><b>Feminine gender:</b><br />
