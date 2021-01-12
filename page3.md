@@ -15,7 +15,7 @@
               </tr>
               <tr align="middle">
                 <td>до<b>м</b></td>
-                <td>in a consonant</td>
+		      <td>in a <b>consonant</b></td>
               </tr>
               <tr align="middle">
                 <td bgcolor="#E8E8E8">ча<b>й</b></td>
