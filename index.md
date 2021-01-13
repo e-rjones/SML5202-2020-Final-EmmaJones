@@ -34,7 +34,7 @@ var words = [
 'девочка'
 ];
 
-var examples = [
+var meanings = [
 '<i>clock</i>', 
 '<i>house</i>', 
 '<i>week</i>',
@@ -56,7 +56,7 @@ var meaningNo;
 function loadWord() {
     meaningNo = Math.floor(Math.random() * (words.length));
     if(meaningNo !== wordNo) {
-    	document.getElementById("word").innerHTML = "<dt>" + words[meaningNo] + "</dt>" + "<dd>" + examples[meaningNo] + "</dd>";
+    	document.getElementById("word").innerHTML = "<dt>" + words[meaningNo] + "</dt>" + "<dd>" + meanings[meaningNo] + "</dd>";
    	wordNo = meaningNo;
     	return wordNo;
     	}
